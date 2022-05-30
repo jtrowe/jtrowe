@@ -5,5 +5,6 @@ To find out more about me, visit:
 * website @  http://jrowe.org/
 * GitLab @ https://gitlab.com/jtrowe
 * GitHub @ https://gitlab.com/jtrowe
+* SourceHut @ https://sr.ht/~jtrowe/
 * LinkedIn @ https://www.linkedin.com/in/joshuatrowe
 
